@@ -1,0 +1,11 @@
+mp_username :There is your username(you also can write Chinese username is work!)
+mp_xboxlive_visible:if you want to try to login Xbox live,you can set the value to 0
+game_language:(I	 DON'T KNOW IT WORKING OR DOSEN'T WORKING)you can set the value to EN_US,if you dosen't set this value,the game language is Chinese.
+game_skintypefull:if you konw MCCE's(minecraft chinese Editon) UUID you can set the value to (your MCCE's UUID)_Custom
+if you want to set the skin to steve,the value is Standard_Custom
+
+mp_username：有您的用户名（也可以写中文用户名！）
+mp_xboxlive_visible：如果要尝试登录Xbox Live，可以将该值设置为0
+game_language ：（我不知道它是工作还是不工作）您可以将值设置为EN_US，如果不设置该值，则游戏语言为中文。
+game_skintypefull：如果您知道我的世界中国版（基岩版）UUID，则可以将值设置为（您的我的世界中国版的UUID）_Custom
+如果要将皮肤设置为steve，则值为Standard_Custom
