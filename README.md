@@ -15,7 +15,7 @@ Unzip me first MC ver.1.12.7z: Unzip it to get the Windowsmc folder and put it a
 options.txt: Put it together with the Windowsmc folder (don't put it in the Windowsmc folder!!!) This is a player file I will introduce it in about——options.txt.
 run me first.bat: import options.txt
 del_log.bat: If you have installed the China version of Minecraft, you can check if there is a minecraftpe folder in C:\Users\%username%\AppData\Roaming\MinecraftPE_Netease\, if not, you don’t need to execute this batch file .
-Cannot enter the title page.bat: If you are stuck on the main page, please execute this batch file with adm/inistrator privileges.
+Cannot enter the title page.bat: If you are stuck on the main page, please execute this batch file with administrator privileges.
 
 
 如果收到DMCA通知，我们会在标题写上（DMCA）并请您尽快fork这个库，如果库已被删除，请在GDWGH/mu-li-xian-bei寻找。
